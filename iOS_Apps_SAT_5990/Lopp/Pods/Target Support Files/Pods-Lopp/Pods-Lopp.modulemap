@@ -1,0 +1,6 @@
+framework module Pods_Lopp {
+  umbrella header "Pods-Lopp-umbrella.h"
+
+  export *
+  module * { export * }
+}
